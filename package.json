@@ -1,5 +1,5 @@
 {
     "bin": {
-        "awesome-command": "index.js",
+        "awsome" : "index.js"
     }
 }
