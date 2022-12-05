@@ -1,0 +1,3 @@
+"scripts": {
+    "awesome": node index.js
+  },
